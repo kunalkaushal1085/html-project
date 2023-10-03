@@ -1,6 +1,3 @@
-# Backend Assignment 
-Welcome to the README
-
 #  BackendAssignment Django Project
 
 ## Project Description
@@ -40,6 +37,5 @@ api/login/ (post api)
 api/create_post/ (post api)
 api/posts/ (get api)
 ]
-
 
 
